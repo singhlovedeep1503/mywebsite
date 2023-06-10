@@ -7,7 +7,7 @@ $id =$_GET['id'];
 	<link rel="stylesheet" type="text/css" href="main.css">
 		<head>
 			<title>Mobile Booking System </title>
-			<style>
+			<style> 
 
 
 ul {
